@@ -18,14 +18,14 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="50" />  
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" height="50" />  
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Python" height="50" />
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px; padding: 0 20px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="50" />  
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" height="50" />  
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Python" height="50" />
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px 20px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 </div>
 
 
