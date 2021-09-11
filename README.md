@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media0.giphy.com/media/euuaA2cwLEUuI/200.webp?cid=ecf05e47276qt1szy7rjb1rq9g0f0r982fwwyvjkgfdrsyxx&rid=200.webp&ct=g" align="center" style="width: 100%; height:25%" />
+<img src="https://media0.giphy.com/media/euuaA2cwLEUuI/200.webp?cid=ecf05e47276qt1szy7rjb1rq9g0f0r982fwwyvjkgfdrsyxx&rid=200.webp&ct=g" align="center" style="width: 100%; height: 300px" />
 </div>  
 
 ### <div align="center">I'm Tam, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
