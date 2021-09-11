@@ -1,9 +1,8 @@
 <div align="center">
-<video controls autoplay loop style="width:400px">
+<video controls autoplay loop>
         <source src="https://user-images.githubusercontent.com/74460121/132945524-2d8d041b-5da4-471f-b38a-af9e5b65b8cc.mp4">
     </video>
 </div>  
-  
 
 ### <div align="center">I'm Tam, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
   
