@@ -18,7 +18,7 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-<img style="margin: 10px 50px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="50" />  
+<img style="margin: 10px 500px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="50" />  
 <img style="margin: 10px 50px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" height="50" />  
 <img style="margin: 10px 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px 50px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
