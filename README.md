@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/euuaA2cwLEUuI/200.webp?cid=ecf05e47276qt1szy7rjb1rq9g0f0r982fwwyvjkgfdrsyxx&rid=200.webp&ct=g" style="width:600px"></img>
+<img src="https://media0.giphy.com/media/euuaA2cwLEUuI/200.webp?cid=ecf05e47276qt1szy7rjb1rq9g0f0r982fwwyvjkgfdrsyxx&rid=200.webp&ct=g" style="width:200px"></img>
 
 ### <div align="center">I'm Tam, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
   
