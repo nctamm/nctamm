@@ -5,28 +5,16 @@
 ### <div align="center">I'm Tam, a Data Engineer student at [HCMUTE](https://hcmute.edu.vn/)🚀</div>  
   
 
-- ![alt text](https://user-images.githubusercontent.com/74460121/132946194-9f84a482-0b82-41af-bbee-908a5d2a9b78.png) I’m currently learning AI, Machine Learing and Deep Learning  
-  
-
-- ⚡ Fun fact: I love watching Detective Conan
-  
-
-<br/>  
-
+- ![alt text](https://user-images.githubusercontent.com/74460121/132946194-9f84a482-0b82-41af-bbee-908a5d2a9b78.png) Currently, I am research about AI, Machine Learing and Deep Learning.  
+- ![alt text](https://user-images.githubusercontent.com/74460121/132946194-9f84a482-0b82-41af-bbee-908a5d2a9b78.png) Most of my research focuses on self-driving cars and neural networks.
 
 ## My Skill Set  
 <table><tr><td valign="center" width="33%">
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 </div>
 
 
