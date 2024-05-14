@@ -8,18 +8,6 @@
 - ![alt text](https://user-images.githubusercontent.com/74460121/132946194-9f84a482-0b82-41af-bbee-908a5d2a9b78.png) Currently, I am research about AI, Machine Learing and Deep Learning.  
 - ![alt text](https://user-images.githubusercontent.com/74460121/132946194-9f84a482-0b82-41af-bbee-908a5d2a9b78.png) Most of my research focuses on self-driving cars and neural networks.
 
-## My Skill Set  
-<table><tr><td valign="center" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-</div>
-
-
-</td></tr></table>  <br/>  
-
 
 ## Connect with me  
 <div align="center">
